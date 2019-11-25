@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "ci-cd-com-boas-praticas",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "author": "Daniel-Gomes03 <gomes.dg3@gmail.com>",
+  "license": "MIT"
+}
